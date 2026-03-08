@@ -1,0 +1,4 @@
+@echo off
+cd /d "C:\Users\Jaydeb"
+"C:\Users\Jaydeb\anaconda3\python.exe" Tenderdetails_automation.py
+exit
